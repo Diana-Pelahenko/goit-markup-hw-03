@@ -240,7 +240,9 @@ padding: 188px 0;
 
 .our-portfolio {
     background-color: #ffffff;
-    margin-bottom: 8px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+   
 }
 
 .page-portfolio {
@@ -251,6 +253,7 @@ padding: 188px 0;
    text-transform: capitalize;
    color: #2e2f42;
    margin-bottom: 72px;
+    margin-bottom: 8px;
 }
 .portfolio-list{
     display: flex;
