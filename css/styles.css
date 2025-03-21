@@ -193,7 +193,10 @@ padding: 188px 0;
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
-        margin-bottom: 72px;
+        
+}
+.team-title{
+    margin-bottom: 72px;
 }
 .team-list{
     display: flex;
@@ -201,6 +204,8 @@ padding: 188px 0;
 }
 .section-line-one{
     background-color: #ffffff;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0 0 4px 4px;
 }
 .page-name{
     font-weight: 500;
@@ -210,6 +215,9 @@ padding: 188px 0;
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
+        margin-bottom: 8px;
+            text-align: center;
+            
 }
 .page-work{
     font-weight: 400;
