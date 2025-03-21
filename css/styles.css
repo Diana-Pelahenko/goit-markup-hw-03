@@ -165,6 +165,7 @@ padding: 188px 0;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 .info-list{
     display: flex;
@@ -192,6 +193,11 @@ padding: 188px 0;
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
+        margin-bottom: 72px;
+}
+.team-list{
+    display: flex;
+        gap: 24px;
 }
 .section-line-one{
     background-color: #ffffff;
@@ -212,6 +218,7 @@ padding: 188px 0;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    text-align: center;
 }
 
 .our-portfolio {
