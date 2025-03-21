@@ -295,6 +295,7 @@ padding: 188px 0;
 }
 .our-footer{
     background-color: #2e2f42;
+    padding: 100px 0;
 }
 .logo footer-logo{
     font-family: 'Raleway', sans-serif;
@@ -312,6 +313,8 @@ padding: 188px 0;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
+        display: inline-block;
+            margin-bottom: 16px;
 }
 .text-footer{
     font-weight: 400;
@@ -319,4 +322,5 @@ padding: 188px 0;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+        max-width: 264px;
     }
