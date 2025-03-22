@@ -284,6 +284,8 @@ padding: 188px 0;
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px;
+    text-align: left;
+
 }
 
 .text-app {
@@ -292,6 +294,7 @@ padding: 188px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-align: left;
 }
 .our-footer{
     background-color: #2e2f42;
